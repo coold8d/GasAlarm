@@ -30,7 +30,7 @@ This module can detect and notify gas level in ppm, if gas level is high, it wil
 
 * Features  
   * Detect/Notify gas level in ppm  
-  * Manual trigger buzzer alarm  
+  * Auto/Manual trigger buzzer alarm  
   * Auto-trigger alarm when gas level is high  
 
 <a name="Pinouts"></a>
